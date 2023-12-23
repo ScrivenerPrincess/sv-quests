@@ -35,4 +35,15 @@ sed -i 's/<span class="caretaker">/[color=#ffead6]/g' "$NEW_FILE"
 # Replace </span>
 sed -i 's/<\/span>/[\/color]/g' "$NEW_FILE"
 
+# Replace <my-spoiler name into [SPOILER and </my-spoiler> into [/SPOILER]
+sed -i 's/<my-spoiler name/[SPOILER/g' "$NEW_FILE"
+sed -i 's/<\/my-spoiler>/[\/SPOILER]/g' "$NEW_FILE"
+
+# Replace <img src=" into [IMG]https://scrivenerprincess.github.io/sv-quests and ></img> into [/IMG]
+sed -i 's/<img src="/[IMG]https:\/\/scrivenerprincess.github.io\/sv-quests/g' "$NEW_FILE"
+sed -i 's/><\/img>/[\/IMG]/g' "$NEW_FILE"
+
+# Replace "> into "]
+sed -i 's/">/"]/g' "$NEW_FILE"
+
 echo "Processing complete. Output in $NEW_FILE"
