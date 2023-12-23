@@ -1,2 +1,2 @@
-# sv-quests
-public-uploads for sufficient velocity quests
+# sufficient-velocity-quests
+image host for sufficient velocity quests
