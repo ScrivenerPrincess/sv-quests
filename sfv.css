@@ -45,6 +45,10 @@ body img {
     color: #ffffff;
 }
 
+.witch {
+    color: #dafaff;
+}
+
 @media screen and (max-width: 1170px) { /* Adjust 1000px as needed */
     pre {
         max-width: 80%; /* Set to a fixed pixel value on smaller screens */
