@@ -1,0 +1,60 @@
+html{
+    background-color: #181818; /* Default background for entire page */
+    padding-bottom: 30%;
+}
+
+body {
+    font-size: 1.0rem;
+    font-family: "Calibri", "Corbel", sans-serif;
+    color: #e6e6e6;
+    background-color: #272727;
+    max-width: 1170px;
+    margin: 0 auto; /* Centers the <pre> block */
+    border: 1px solid #3c3c3c; /* A lighter grey than #272727 */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px; /* Optional padding */
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding-bottom: 20%;
+}
+
+body img {
+    max-width: 90%; /* Ensure image does not exceed the width of the <pre> */
+    height: auto; /* Keep the aspect ratio of the image */
+    display: block; /* Optional: Makes the image a block-level element */
+}
+
+.ally {
+    color: #ffd6d6;
+}
+
+.caretaker {
+    color: #ffead6;
+}
+
+.counselor {
+    color: #d5f0dd;
+}
+
+.cruel {
+    color: #e6e6ff;
+}
+
+.fox {
+    color: #ffffff;
+}
+
+.witch {
+    color: #dafaff;
+}
+
+.mystic {
+    color: #f6c1fd;
+}
+
+@media screen and (max-width: 1170px) { /* Adjust 1000px as needed */
+    pre {
+        max-width: 80%; /* Set to a fixed pixel value on smaller screens */
+    }
+}

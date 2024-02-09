@@ -1,0 +1,268 @@
+
+[X] - Heart A - Patience ignored it for now.
+
+"Alright, Shoresy, I'll take care of it. You have my word. Can you spare anything else that'd be useful? An item of hers, an heirloom, something special, anything like that?" Patience glanced at Fiona. "We can use it to track her down."
+
+Shoresy rummaged in the safe for a moment before pulling out a child's drawing. Drawn in crayon on withered paper, it depicted a man with curly black hair, a young girl in a pink dress, and a taller woman in a red dress. In the background was a hill and the Hollywood sign. "Yes," Shoresy said, pausing to look at the drawing. "She made this for me when she was four. Would that work?"
+
+A moment of silence hung in the air, scraping against Patience's senses. Fiona nodded. "Yeah, that'd be perfect."
+
+He tried to hand it to Patience, but suddenly jerked back, almost afraid. "Are you sure this'll help? It's... If she's gotta get got, it's all I have left..."
+
+"I completely understand. Fiona can use it to let us know if she's alive or not." Patience noticed something different in Shoresy's demeanor. His eyes were watery, a rare show of emotion from him. "We'll let you know, of course," she assured, "when we find out."
+
+He nodded and handed over the paper.
+
+## Give me some stuff Shoresy!">
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/02/board-state-02.png"]]
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Heart_01_check.png"]]
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Heart_01_state_after.jpg"]]
+## End Spoiler
+
+*Added Beloved Drawing to inventory.*
+
+## Artifact: Beloved Drawing">
+    **Beloved Drawing**
+    A drawing depicting Mr. Shoresy Laroux, Ms. Monica Laroux, and Ms. Isabella Fernandez (once Isabella Laroux). On the back, a giant smiley face says, "Happy Birthday Dad, I love you!" The paper is warm to the touch, as if left in the sun, even in the coldest room.
+
+    <u>Heart Failure Trigger: 4 Magic</u>
+    *If triggered, uses 4 Magic Cards to pass Failed Heart Checks (Will not trigger if there are fewer than 4 Magic Cards in the Magic deck)*
+## End Spoiler
+
+[X] - Brawn K - Patience gripped her guitar, bracing for the oncoming storm. (Brawn Check: King on Brawn, Ace Possible.)
+
+The neck and headstock of the guitar, made of thick iron, resembled a crucifix with its sacrifice affixed. Six thorns in the crown of the savior served as tuners. Red paint flowed down the neck into blue flames on the black metal body. The blade gleamed in the dim light. The strings, ending in a demonic imp's grinning sculpture, melted into the instrument as Patience took hold, its eyes starting to glow.
+
+Silence crept into the room, enveloping it like a vine wall. Fiona, stepping back from the door, lifted her loose blouse to reveal a neoprene holster around her waist. She withdrew a gleaming silver pistol, tucked into her leather breeches. Trying to speak, no words came out. Laroux, too, seemed voiceless. Then, the silence was shattered by deafening music.
+
+[URL unfurl="true" media="youtube:Uy4FsvEwh68">https://www.youtube.com/watch?v=Uy4FsvEwh68[/URL]
+
+Broken from his stupor, Laroux rushed to the triceratops' skeleton's head. Simultaneously, the door exploded silently into a mist of splinters. Fiona was thrown from the blast, crashing into the felt walls. The room filled with the smell of methane, sulfur, and cadaverine, as a bright purple miasma rendered visibility nearly impossible. *Something* leapt through the shadows towards Fiona's crumpled form. As Patience swung her axe, liquid putrefaction misted them all.
+
+Night creatures — stochastic mixtures of man and demon — began pouring inside as the door frame started to crack. Decaying talons of undead hands peeled chunks of drywall, punching through the walls. Scrambling off the couch, Fiona ran into the corner, rapidly firing into the grasping hands, each bullet strike emitting a pillar of brilliant white magnesium light. Shoresy, with a shotgun featuring a rotating drum affixed to the bottom, blasted dinner plate-sized holes in the creatures trying to climb in.
+
+Meanwhile, Patience held the doorway, now surrounded by gore and viscera. Trails of black ichor followed her axe's swings as she spun in graceful arcs, rending night creatures asunder. An ever-growing pile of bestial limbs, torsos, and heads formed around her. As the horde began to thin and she pushed towards the doorway, she noticed a silhouette of a woman among the creatures.
+
+This being had silver feathers for hair and large frog eyes atop a giant beak. Her flowing garments floated gently around her, as if drifting through water. Her scaled hands, with giant talons, gripped a double-necked guitar, one bass, one electric. Three arms danced across the instrument: one on each fret and a third strumming the strings. Then she locked eyes with Pat's wicked grin.
+
+With a wild strum, waves of energy fired across the hallway, tearing giant slashes through the creatures in the room. They bounced off the walls, creating vivid grids of light. Fiona peeked out from behind Patience, but quickly ducked back as a wave flew overhead, severing a curl.
+
+Now laughing with manic glee, Patience leaped through the first set of waves. Landing, she grabbed a random night creature, using its body to shield herself from the subsequent blasts. As the creature's body was torn apart by the sound waves, Patience emerged in an explosion of rotten blood before bringing her axe down onto the bird's head. The music ceased, and the noise of the club returned. High-pitched screams mixed with guttural roars, the crackle of a distant inferno, and random pops of gunfire echoed from every direction.
+
+## You die today creature of the night!">
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Heart_01_state_after.jpg"]]
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Brawn_01_check.png"]]
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Brawn_01_check_after.jpg"]]
+## End Spoiler
+
+"Shoresy, Fiona, we're LEAVING!" Patience yelled, slamming her axe into another creature's head.
+
+Fiona yelped as a sharp pain shot through her leg. Looking down, she fired into the floor. The bear skin rug had come to life, snapping its jaws at Fiona's ankle and drawing blood. With a roar, she screamed, "YOU ROTTEN CU—"
+
+She was cut off by Shoresy's shotgun.
+
+Then the room shook with an ancient arcane roar.
+
+All three looked towards the back wall, where the triceratops skeleton strained against its pins, its eyes glowing with blue fire. Fiona scooped up Shoresy, tucking him under her arm like a portly football. As the triceratops pulled itself free, the back wall exploded and it charged, lowering its horned head. Bullets from Shoresy's shotgun bounced off the creature's bones, causing chips and fractures. Patience leaned her shoulder forward, barreling through the demonic forces.
+
+The hallway to the motel rooms was filled with night creatures slaughtering the occupants. It seemed they had come not just for Shoresy but to raze the structure to its foundations. Many occupants lay dead, amidst discarded weapons and spent casings. Patience carved a path forward for the others to follow. As they sprinted from the offices, the triceratops collided with the narrow door frame, bellowing an eldritch sound of rage and slamming against it.
+
+"I got a truck!" Shoresy yelled. "In the lot!"
+
+Glancing over her shoulder, Fiona asked, "Front or back?"
+
+"The front! It's the Einstein, the one with the .50 cal. Just go; I'll slow you down!" He handed Fiona the keys.
+
+She dropped him and took off, like a bolt of lightning.
+
+"What the hell did you do, Shoresy?!" Patience demanded, stopping next to Mr. Laroux and gripping her axe tightly.
+
+In the main room, the concrete floors were drenched in fresh blood, a chaotic scene of battle and slaughter. A small group of night staff had taken cover behind the bar, forming a disorganized firing line against the charging night creatures. Many of Shoresy's regular customers had fallen to the initial onslaught. The sound system, once booming with bass, now emitted a low-level white static, as if tampered with by someone, or something.
+
+Amidst the burning chaos of his club, Shoresy wracked his mind. "A lot of shit, Patience. I have a lot of enemies, alright?" His attempt to fire at the encroaching night creatures failed; the gun clicked dry. He leaped behind the bar to grab a fresh drum, joining his staff. Bellowing orders, the disorganized group quickly coordinated into a makeshift militia.
+
+The thunderous stomps of the triceratops were followed by the sound of fresh crashes, each new explosion signaling its approach like a crier warning of an oncoming horde. A wall near the rooms collapsed under the living fossil's charge. Then it stopped, the cold blue fire in its eyes scanning the room before focusing on the makeshift soldiers in the cafeteria. Its bony feet cracked the concrete with each heavy step, and cold air condensed around its hot breath, forming tiny puffs of steam.
+
+Bullets collided against it to no effect. Tiny sparks of lead glinted in the purple-pink lights as they glanced off the enchanted bone.
+
+The triceratops charged, heedless of the night creatures too slow to escape its path. Its horns, covered in blood, bore a night creature — a man-lion hybrid — impaled and screaming in fear, like a grotesque trophy of the night's chaos.
+
+Patience's axe sliced connected with the skeleton's skull, scattering bones across the floor with a sound reminiscent of rolling dice. She lunged to strike the creature's head again, but the skeleton began to reform. The tail struck her, sending her sliding across the smooth ground. Her axe slipped from her grasp, landing in a nearby wall. A night creature with curved talons and a bulls head attempted to peel her skin off. Grasping it by the nose ring, she smashed it against the wall, its form collapsing like a rotting cantaloupe.
+
+Her axe, now embedded in brick, was tantalizingly out of reach. Patience swore under her breath; fatigue was setting in.
+
+The creature charged once more.
+
+This time, instead of darting for her axe, Patience braced herself. A whoosh of air escaped her lungs as the dinosaur's skull collided with her.
+
+## Devious Dinosaur">
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Brawn_01_check_after.jpg"]]
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Brawn_02_check.png"]]
+    ![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Brawn_02_after.jpg"]]
+## End Spoiler
+
+Frustrated and exhausted, Patience unleashed a feral scream of rage and grabbed the triceratops by its horns. Planting her foot on the creature's collarbone, she pulled with all her might. Her muscles tensed, and a vein bulged in her head as the creature's yell transformed from rage to panic. With a loud, squelching pop, the skull came free. Still screaming, Patience smashed the skull onto the remaining bones repeatedly, until nothing but two triceratops horns remained in her hands. She continued her onslaught until the skeleton was reduced to bone meal.
+
+Huffing and panting, she stared at the horns in her hand. Then, spitting into the pile of dust, she headed towards the door. "Come on, Shoresy!"
+
+## Weapon: Dual Clubs">
+    **Dual Clubs**
+    Two large horns taken from a triceratops' remains. Not particularly sharp, these enchanted pieces of calcium are capable of macerating meat, mineral, or metal. The horns are indestructible, being harder than stone.
+
+    <u>Brawn Failure Trigger: Draw 1 (Exhaust)</u>
+    *If triggered, discard an additional Brawn Skill Card and pass the skill check instead. Add an exhaustion token to the Brawn Skill Deck until it is reset. This effect cannot be activated on the Brawn Skill Deck if it already has an exhaustion token. The effect does not activate if there is no card to draw, or only one card, as it would still result in a failure. This effect does not prevent failures from the last card being drawn in the Skill or Challenge decks.*
+## End Spoiler
+
+Outside the club, Fiona's horn honking, sirens, and galloping horses filled the air.
+
+"Sorry, kid!" Shoresy yelled over the noise, "I'm gonna have to deal with the Blue Boys. It's going to take a lot to smooth things over. You did me a favor though, and I won't forget it."
+
+He gestured towards the back door with his thumb. "Keep the car. Go find Monica. Get paid."
+
+Patience nodded and quickly exited. Outside Sapphire, Fiona was incessantly honking the horn of the electric truck. The Einstein was clad in matte steel, resembling a poorly rendered video game object with its sharp geometric planes. The truck bed housed a large weapon, and both the cab and bed sported a hideous grey color, its paint long since chipped by the sun. Patience noted the numerous steel pockmarks and the empty ammunition in the back. She slid across the hood and leaped into the passenger seat.
+
+They sped out of the parking lot just as the Blue Boy Cavalry, once known as the LAPD, arrived.
+
+"What the hell was that, Fiona?" Patience asked, leaning over to give Fiona a peck on the cheek.
+
+"Politics, I think," Fiona replied. Meanwhile, Patience fished a kretek from her bag, lighting it with a flick of her lighter. Fiona took it, inhaling deeply. "Shoresy and Dos eMe have been at odds since he split with La Bruja in 2048. That was right after AN-13 cut ties with the cartel here, just before you and I met."
+
+After a puff, Fiona passed it back to Patience, who looked at it in confusion. "How did Armenian Nationalists end up with the Mexican Mob?"
+
+"I don't know. The '13' was a loyalty symbol, like SM-13, I think. AN was probably paying protection. There was this whole thing about the FBI messing up a war between the two back in 2010, decades before I was born." Fiona's face, illuminated by the dashboard lights, wore a thoughtful expression as she rubbed her neck. "Anyway, Shoresy did something to mess up that whole 'partnership.'"
+
+"Wait, does that mean..." Patience grimaced, looking at Fiona. "That Monica's mom is..."
+
+She passed the kretek over, and Fiona took it back, exhaling before saying, "Yup! Messiest. Divorce. Ever."
+
+Patience appeared stunned. "Damn..." she murmured. "So where do we go from here?"
+
+"There are a few options, really."
+
+## Boardstate">
+![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Cloves_01_fill.png"]]
+![[https://scrivenerprincess.github.io/sv-quests/belmont/03/Clove_01_after.jpg"]]
+## End Spoiler
+
+"We could go to Monica's place, try knocking on doors, talking to neighbors, see if we can get someone to try and throw *our* car into the river."
+
+[ ] - Knock on Monica's door (Heart-focused path, with Brawn, Sharp, and a few Magic checks.)
+
+"Or we could head up to Bel Air and talk to La Bruja."
+
+"Bel Air? I thought Dos eMe was in East LA?" Patience asked, raising an eyebrow.
+
+With a sigh, Fiona explained, "No, Mrs. Laroux kept the house. Plus, West Hollywood is more defensible, with a bunch of rich folks who can still get supplies. Anyone wealthy stays up there and screws us down here." She ashed her kretek out the window, adding, "Oh, and don't actually call her La Bruja; it's, uh... not a term of respect."
+
+[ ] - Talk to Isabella in Beverly Hills (Sharp-focused path, with Magic and Brawn, and a few Heart checks.)
+
+"Honestly, Fi," Patience sighed, rubbing her eyes wearily. "I'm exhausted. Maybe we could head home and deal with this in the morning?"
+
+"I think we could do that, but I've got this funny feeling..."
+
+Patience groaned inwardly; Fiona's 'funny feelings' never boded well.
+
+[ ] - Go home (Brawn-focused path, with Sharp and Heart, and a few Magic checks.)
+
+*Finally, a new weapon: the Dual Clubs are **strictly** an upgrade from the guitar, but we can hand wave weapons.*
+
+[ ] - I would like Patience to actually use the dual clubs.
+[ ] - I prefer to hand wave the clubs as "equipped" but have her still use the guitar.
+
+## Character Sheet">
+    Weapon: Dual Clubs
+## Weapon: Dual Clubs">
+    **Dual Clubs**
+    Two large horns taken from a triceratops' remains. Not particularly sharp, these enchanted pieces of calcium are capable of macerating meat, mineral, or metal. The horns are indestructible, being harder than stone.
+
+    <u>Brawn Failure Trigger: Draw 1 (Exhaust)</u>
+    *If triggered, discard an additional Brawn Skill Card and pass the skill check instead. Add an exhaustion token to the Brawn Skill Deck until it is reset. This effect cannot be activated on the Brawn Skill Deck if it already has an exhaustion token. The effect does not activate if there is no card to draw, or only one card, as it would still result in a failure. This effect does not prevent failures from the last card being drawn in the Skill or Challenge decks.*
+## End Spoiler
+
+Necklace: Ankh Earrings
+## Ankh Earrings">
+**Ankh Necklace**
+A cheap gold necklace with a pink anodized charm in the shape of an Ankh, looted from the Santa Monica Boardwalk. Its sheen has started to dull and wear off, revealing the inexpensive aluminum beneath. The chain has left a green line around Patience's neck.
+## End Spoiler
+
+Armor: Denim Jacket
+## Denim Jacket">
+**Denim Jacket**
+A denim jacket covered in patches and signatures. Everywhere Patience goes, she collects a patch or gets someone to sign the jacket. The overlapping signatures are becoming hard to read, except for one under the collar, which reads "Fiona" with a heart dotting the 'i'.
+## End Spoiler
+
+Belt Buckle: FAFO Bull's Head
+## FAFO Bull's Head">
+**FAFO Bull's Head**
+A belt buckle featuring a bull's head over an encircled star, with the letters FAFO emblazoned above. The blood of a Texan Sheriff has stained the eyes of the bull red.
+## End Spoiler
+
+Boots: Knee-high Lace-ups
+## Goth Steel-toed Shit Kickers">
+**Goth Steel-toed Shit Kickers**
+Scuffed leather boots with bits of steel poking through the toes. Thick laces run up to Patience's knees, adorned with spikes and chains. They are made of the highest quality pleather available.
+## End Spoiler
+
+Gloves: Fingerless Gloves
+## Fingerless Gloves">
+**Fingerless Gloves**
+One-size-fits-most gloves with the fingers cut out. The elastic has been stretched to its limits.
+## End Spoiler
+
+Carabiner: Puffy - Right Back Atcha Keychain
+## Puffy - Right Back Atcha Keychain">
+**Puffy - Right Back Atcha Keychain**
+
+A keychain featuring the stronger-than-some-gods pink cream puff Puffy riding a star with a long rainbow trail, reading "Right Back Atcha." Inside, there's a piece of printer paper with a picture of Patience, her mother, and her father playing music together.
+## End Spoiler
+
+<u>***Artifacts do not need to be equipped, they simply work automatically.***</u>
+## Arifacts">
+    ## Artifact: Beloved Drawing">
+    **Beloved Drawing**
+    A drawing depicting Mr. Shoresy Laroux, Ms. Monica Laroux, and Ms. Isabella Fernandez (once Isabella Laroux). On the back, a giant smiley face says, "Happy Birthday Dad, I love you!" The paper is warm to the touch, as if left in the sun, even in the coldest room.
+
+    <u>Heart Failure Trigger: 4 Magic</u>
+    *If triggered, uses 4 Magic Cards to pass Failed Heart Checks (Will not trigger if there are fewer than 4 Magic Cards in the Magic deck)*
+        ## End Spoiler
+## End Spoiler
+
+    *<u>**Inventory items do not affect Patience. Anything that would have an effect would be classified as an artifact.**</u>*
+## Inventory">
+    ## Weapon: Belmont Guitar">
+    **Belmont Guitar**
+    A gift to Patience from her mother. This wicked axe has been modified to also function as an electric guitar. The body of the guitar is a gleaming blade adorned with a laughing imp, where the guitar strings terminate in the imp's mouth, and flames crawl up its sides. The fretboard, stock, and head form a giant crucifix, with the thorns on the crown of the savior's head acting as tuners for the strings. Red paint trails from the savior's crucifixion down to the flames below.
+    ## End Spoiler
+## End Spoiler
+
+**<u>Belmont Stats:</u>
+===> Sharp** A/K/Q/J/10/9/8/7
+**===> Brawn** A/A/K/Q/J/10/9/8/7
+***= Pit Fighter***
+Brawn Failure Trigger: No Cost
+Place the Highest Brawn Challenge Card, that would still lose to the highest Brawn Skill Card in your deck on top of it's Challenge Deck face up.
+**===> Heart** A/K/Q/J/10/9/8
+**===> Magic** A/K/Q/J/10/9/8/7
+
+**<u>Fate Stats:</u>
+<=== Sharp** A/K/Q/J/10/9
+**<=== Brawn** K/Q/J/10/9
+**<=== Heart** A/K/Q/J/10/9
+**<=== Magic** A/K/Q/J/10/9
+## End Spoiler
+
+
+## Exhaust">
+    **Exhaust**
+    When an item, ability, or effect carries an "Exhaust" tag, an exhaust token is added to the relevant Skill or Challenge Deck. This token remains until it is removed by another ability, a full rest, or when the deck is Reset.
+## End Spoiler
+
+## Discard X">
+    **Discard X**
+    This tag indicates that you should discard a card from the specified Skill or Challenge Deck. If the discarded card is the last in the deck, the effect fails unless stated otherwise. In the Luck Deck, if the discarded card is the last and the vote involves more than one check, reshuffle the Luck Deck and use the new Luck Card for subsequent checks, following the order in the rules document (Sharp -> Brawn -> Heart -> Magic).
+## End Spoiler
+
+## Magic X">
+    **Magic X**
+    When an item, ability, or effect includes a "Magic" tag, discard a card from the Magic Deck. Magic abilities will not be activated if there are insufficient Magic Skill cards in the deck unless specifically stated otherwise.
+## End Spoiler

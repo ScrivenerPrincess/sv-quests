@@ -1,0 +1,141 @@
+<meta charset=“UTF-8”>
+<meta name=“viewport” content=“width=device-width, initial-scale=1.0”>
+<meta http-equiv=“X-UA-Compatible” content=“ie-edge”>
+<link rel="stylesheet" href="/sfv.css"></link>
+<script src="/my-spoiler.js"></script>
+
+With a jerk of her head, Patience signalled to Fiona, "C'mon then, let's get some drinks." She gave her partner a wink and they pushed forward through the gyrating masses. The thick music gave way to loud excited chatter. Everything was a bit slower around the bar, as people stopped and talked, while flitting to and fro with drinks to their various groups and parties. They had lucked out, and approached just as there was a lull in the excitement.
+
+Patience sat at the bar, and held up a five-dollar bill. It only took a few seconds for a bartender to quickly make their way to her and Fiona to collect it. He was old, sun weary, and raw. His skin was tawny a dark amber undertone. His salt and pepper hair was styled into a high and tight updo. All of the bartenders were wearing blue long sleeves under black vests. 
+
+As he pocketed the bill, he said, "Hey, I'm keeping this but just so you know it's an open bar. What can I get you?" He also had tears tattooed around his eyes, which had become so grizzled that Patience could barely see them beneath his bristly brows. "Ah shit Belmont, who let you in here?"
+
+"How the fuck does everyone know me?" Patience said with a laugh, "I'm not that famous am I?"
+
+The bartender says, "You fuck around with Shoresy que no? Down at Sapphire."
+
+She tried to play stupid, "Uh no? He's a little short for me." and looked to Fiona with a worried look, "Do people not think I'm gay? Is it the way I dress?"
+
+"Hon have you looked in a mirror lately?" Fiona snorted, plucking at her denim jacket. "It's definitely not that, for sure."
+
+"No not like tha—" The bartender rolled his eyes, "Nevermind, you getting a drink or what?"
+
+"Hmm? Oh yeah! Two strawberry brandies." The hydroponic systems of Boyle Heights grew some of the sweetest strawberries around, one of the best crops for growing in a water based set-up. These were then picked and brewed into an infamous Brandy that could only found here. A rare expensive delicacy.
+
+Fiona nudged her in the ribs, and Patience added, "Oh neat please." Even though the water was purified, Fiona still had qualms about drinking ice made from the river.
+
+The bartender snorted, "Yeah sure."
+
+And so the playful tug and pull for a bartender's attention began. Patience sat and chatted with Fiona with a smile, and when he seemed to stray too far Patience would tip again, she was starting to get nervous as Shoresy's money spent freely but was not unlimited, still it was the easiest way to get the attention she needed. After the third brandy she stopped him, "Hey what's your name friend?" She said with her best attempt at a winning smile.
+
+"Carlos," He responded.
+
+*Look at that, already warming up,* his tone had shifted, a lot of the brusqueness from before had largely been removed. While he was still short tempered, he seemed more eager to not want to offend. There was another benefit, as Carlos began to hover closer to Patience to pay attention to her tips, the crowd itself moved around them to better get his attention. Slowly, quietly she had shifted the eye of the storm, until her and Fiona could quietly surveil the entirety of the crowd with little to no interference.
+
+Except, there was a *slight* issue. In order to *keep* Carlos' attention, she would need refills, and in order to get refills, her glass needed to be empty. Unfortunately, Carlos had been warming up to her or at least her money, and so the drinks in turn started to grow in size, and in strength.
+
+After the ninth or twelventeenth glass, Carlos came over to check on them. "Ey you good Belmont?"
+
+"Yeah, of course!" She gave Carlos a wink as she finished her drink and handed him another bill. "Haven't you heard my calling card? I'm six-three and pure muscle. She's the one you gotta watch." She leaned in close, "She's a devil for the drink." Then winced internally, she knew she was mirroring Fiona's accent. *How strong is the brandy, christ.*
+
+Fiona slapped Patience hard upside the head, the sound making a loud crack. "How dare ye, I'm fond of a pint or two is all. Christ on a cross Patience. Ye can't be saying tha' about a right proper woman."
+
+The sting cleared her senses a bit, and helped her shake off the creeping anxiety. They both started to laugh.
+
+Carlos rolled his eyes, "Alright, next one's water you two."
+
+"Water!? You know fish piss in tha'?" Fiona yelled a bit too loudly as she fell into Patience's arms with a giggle. "Gosh, your strong Patience." It had taken her a second to realize that Patience had been holding the entirety of her weight.
+
+Patience head fell forward as her brain seemed to slosh in it's wet casing. She steadied it against Fiona's forehead, and her nose filled with the smell of coconut and roses. *How the hell does she still find so much perfume?* Her mind flitted between thoughts weakly without any real connection between any of them.
+
+"Hey," Patience said, "Does it bother you when that happens?"
+
+Fiona laughed, "When what happens love?"
+
+"When I end up copying your accent. I don't mean too."
+
+"Oh no, no of course not. You can't help it can you? It's just how you are. I'd have been long gone if shite like that got to me." She snorted, "You're always worrying. Just enjoy things!"
+
+*God she's perfect, everything's perfect.* She hadn't noticed when Carlos had approached, but heard the glasses clink with the bar. "Hey can you switch us to water for like... The rest of the night."
+
+Carlos shot her a smile and laughed, "Yeah. No problem, I won the bet awhile ago anyways."
+
+With one hand wrapped around Fiona, who had climbed into her lap at some point, she handed her the glass of water. Then took one for herself and started to slug it. The clean cool liquid lubricated her dry throat, and she felt it's coldness seep down from her mouth to her core. Spreading and smothering the flames that had started inside. 
+
+Fiona looked up at her from her arms, "What? Have I got something on my face."
+
+"No..." She shook her head. "Thinking about uh..."
+
+Her vision started to fade for a moment.
+
+## Can Patience hold her liquor?">
+    ![[/belmont/04-actual/Heart_01_Check.jpg"]]
+    ![[/belmont/04-actual/After_Check_01.jpg"]]
+## End Spoiler
+
+Patience shook the liquor off, "Whoa," She wasn't quite sure what was happening but managed to pull herself together. 
+
+She lifted her spinning head to see Carlos collecting cash from the other bartender. She craned her ears, to catch them saying, "You were right, they drank four bottles. I've never seen that before."
+
+"That's the difference between me and you. Experience, you start to get a bead on the ones that can drink." He nodded as he passed on his sage wisdom, "You see how much I made tonight? The entire job is just making sure the right ones get drunk, and the wrong ones never get close."
+
+Fiona tapped her chest, and pointed. Patience glanced at where she was pointing, and noticed that there was an ice chest that had been dropped off. It wasn't much larger then a lunch pail, but small clouds of fog seeped out of the closed lid. She looked back to Fiona with a quizzical expression. Fiona rolled her eyes, and then pointed at her canines, jerking her fingers downward. 
+
+"What?" She whispered.
+
+Before Fiona could answer Carlos picked up the ice chest. "Go give this to one-oh-seven."
+
+The other bartender groaned, "Bro, they give me the creeps."
+
+"Yeah, well you wanted double or nothing. That's the other thing about experience, not taking stupid bets. Now go. Andele, sooner you go the sooner you come back." Carlos said sternly. He jammed the plastic box into the other bartender's chest, who grabbed it with an angry click of his teeth.
+
+The other swore under his breath, *"Fuck..."* and marched off.
+
+As the water washed away some of the rougher edges of her drunken stupor, Patience finally started to feel collected. 
+
+"Hey, Belmont." Carlos said, as she got up.
+
+Patience whirled around, "Yeah?"
+
+"You're gonna want to get out of here before they cut the cake yeah?" Carlos said. "They'll cut you open like a fish if you're caught walking around here at the wrong time."
+
+"Right... Okay." Patience said.
+
+"I'm serious." The bartender had steel in his voice, and the pertinence of his words started to sink in. "Everyone who isn't family needs to be gone. We let people sneak in, but make sure you walk out before it's too late."
+
+Patience nodded firmly. "Thanks." She didn't quite understand what too late meant, but she understood that she would need to leave soon. Still, she wanted to check out Room 107 before she left.
+
+Together Fiona and Patience were able to deduce the numbering of the apartments, and started to walk their way through. As they got further away from the party there was an unsettling chill that seemed to seep into their bones. An eary cold that didn't just freeze them physically, but seemed to suck at the fires of their soul.
+
+"How much cash we got left?" Fiona asked. Patience had been rifling through her wallet mostly to keep her hands busy while they walked.
+
+"Hmm? Oh, uh... Shit..." She said quietly, between the drinks and the bribe, they had already spent nearly half their money. "Not as much as I'd like."
+
+Fiona nodded quietly. The music, which nearly two blocks away felt so loud and thick that it was kicking you in the chest, now sounded muffled, and almost dead. Patience squeezed Fiona, as the smaller woman shivered in silence. She realized that whatever that silencing aura was, it had even effected the area around the bar. That the bar had been placed there in part because of the way it allowed quieter conversation, outside of the music. A purposeful thing, that plus the ice chest made it clear that Dos eMe was well aware with whatever super natural entities were at play.
+
+There was a slight squelching that suckled at her boots as she walked. When she looked down, she noticed that there was something off-brown and sticky. Not only that, a familiar unsettling odor in the air set her hackles on end. *Blood,* she thought to herself. *Shit.*
+
+"Vampires?" Fiona said as she looked down at the blood.
+
+Patience shook her head, "I don't think so... They're people still, just you know... Dead. They wouldn't just leave blood out on the patio like this." She reached down and touched the brown liquid, it was still wet, but starting to oxidize, "Think about Cruz."
+
+"The Zodiac Killer you mean? Or Dracula?"
+
+"Both." Something about the place made Patience want to run. Just turn around and sprint far far away.
+
+She heard the crunching crack of bone, and wet licks and chomps. The wet exhales of ravenous breath, and gutteral slurping that came from around the corner were unnerving. They were inhuman, and the noise sounded... *Wrong.* Painfully so. Every part of her body screamed to escape as she reached around the corner. With a deep breath, she willed herself too look.
+
+
+## Resist running">
+    ![[/belmont/04-actual/Heart_Check_02.jpg"]]
+    ## Artifact: Beloved Drawing">
+        **Beloved Drawing**
+        A drawing depicting Mr. Shoresy Laroux, Ms. Monica Laroux, and Ms. Isabella Fernandez (once Isabella Laroux). On the back, a giant smiley face says, "Happy Birthday Dad, I love you!" The paper is warm to the touch, as if left in the sun, even in the coldest room.
+    
+        <u>Heart Failure Trigger: 4 Magic</u>
+        *If triggered, uses 4 Magic Cards to pass Failed Heart Checks (Will not trigger if there are fewer than 4 Magic Cards in the Magic deck)*
+    ## End Spoiler
+    ![[/belmont/04-actual/Artifact_Activate_01.jpg"]]
+    ![[/belmont/04-actual/After_Check_02.jpg"]]
+## End Spoiler
+
